@@ -7,7 +7,7 @@ on:
     branches: 
       [ master ]
     paths:
-    - 'Dockerfile/**'
+    - 'Dockerfile'
     - '.github/workflows/myapp-AutoDeployTrigger-ce9f7b8e-8d9a-4ae0-bb15-c163f89cb900.yml'
 
   # Allow manual trigger 
